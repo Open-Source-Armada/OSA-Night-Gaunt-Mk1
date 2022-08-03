@@ -1,5 +1,5 @@
 # OSA-Night-Gaunt-Mk1
-A experimental 6 gun stealth ship, made to target slow vulnerable civilian ships like surface miners.
+A experimental 6 gun stealth ship, made to target slow vulnerable civilian ships like surface miners, comes in autocannon and laser variants.
 
 
 //Specs//
