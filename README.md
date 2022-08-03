@@ -59,7 +59,7 @@ Stats based on autocannon, other versions will differ.
 //Tactics//
 
 
-Starting as an attempt at a new armoured fighter, i changed the goal when plating was not providing the needed protection.
+Starting as an attempt at a new armoured fighter, i changed the goal when plating was not providing the needed protection i wanted.
 
 The frame was reworked into the largest amount of guns i could keep above 140 ms, without trails.
 
