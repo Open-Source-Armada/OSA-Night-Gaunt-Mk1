@@ -53,6 +53,8 @@ Manufacturing cost 886970 credits
 
 Total cost 946128 credits
 
+Stats based on autocannon, other versions will differ.
+
 
 //Tactics//
 
