@@ -5,7 +5,7 @@ A experimental 6 gun stealth ship, made to target slow vulnerable civilian ships
 //Specs//
 
 
-6 mounted weapons.
+6 mounted weapons with a staggered fire trigger system.
 
 Shoot_1+ and Shoot_2+ are your triggers, bind these to your weapon hotkey (space by default).
 
