@@ -7,6 +7,16 @@ A experimental 6 gun stealth ship, made to target slow vulnerable civilian ships
 
 6 mounted weapons.
 
+Shoot_1+ and Shoot_2+ are your triggers, bind these to your weapon hotkey (space by default).
+
+Rapidfire button switches between staggered fire (gun 2 will stagger behind gun 1 creating a machine gun effect) and alpha strike (both guns fire together).
+
+BoostMin and BoostMax act as a aim keybind without yolo (yolo is avoided where possible due to the 0.2 delay) these should ALWAYS be bound to the same key.
+
+Ship is set to both fly and aim at a smooth sensitivity (tune to your taste), Boost keybind removes these limits allowing for faster pitch/yaw.
+
+This can be altered to be the more common method of aiming, having higher sense as standard, and having the ships pitch/yaw slow down for aiming. (Swap the BoostMin/BoostMax Off values with its On values, remember to set it in the pitch/yaw lever fields too).
+
 140 m/s max speed using T2 maneuver thrusters, no trails.
 
 354387.656 kg in weight.
